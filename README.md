@@ -6,6 +6,7 @@ Welcome to the codebase repository for Haunting Hammy – an immersive adventure
 Oh no! Your pet hamster, Hammy, has stumbled into the chilling mansion of Ravenwood Hollow; it’s up to you, Lucy, to embark on a thrilling adventure through the haunted residence to rescue him. Navigate through spooky settings, avoid haunted creatures, and defeat any ghouls standing between you and Hammy’s way. Can you conquer the supernatural challenges within the mansion's dark corridors and rescue Hammy before midnight?
 
 ## What I Did
+As the lead programmer and level designer for the project, my contributions include:
 - Implemented camera movement functionality.
 - Developed player movement functionality.
 - Created a custom physics property to fine-tune player movement by removing friction and allow for smoother platforming.
