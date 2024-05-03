@@ -31,6 +31,22 @@ As the lead programmer and level designer for the project, my contributions incl
 - Fixed bugs and implemented sounds.
 - Designed paintings around the mansion.
 
+## Process Overview
+Our journey from concept to the final project was marked by collaboration, iteration, and a shared passion for bringing our ideas to life. As the lead programmer and level designer, I had the privilege of witnessing the evolution of Haunting Hammy firsthand. Our team dynamic played a crucial role in our success, fostering creativity, innovation, and camaraderie.
+
+### Starting Point: Conceptualization
+Our journey began with a spark of inspiration – the idea of a thrilling adventure game set in the eerie mansion of Ravenwood Hollow. With this concept in mind, we embarked on a collaborative brainstorming session, fleshing out the game mechanics, storyline, and visual aesthetics. Each team member brought their unique perspectives and skills to the table, contributing to the vast array of ideas that would shape our project.
+
+### Iterative Development: From D1 to D2
+As development progressed, we transitioned from concept to implementation, moving through iterative stages marked by continuous improvement and refinement. From D1 to D2, we embraced feedback, iterated on gameplay mechanics, and fine-tuned level designs to enhance player experience.
+
+### Streamlining Code and Continuous Improvement
+As the lead programmer, I took pride in overseeing the technical aspects of the project, constantly seeking ways to improve efficiency and streamline code. Working closely with the rest of the team, I implemented optimizations, refactored code, and resolved bugs to ensure a smooth and immersive gameplay experience. Our collaborative approach to development enabled us to overcome challenges, adapt to changes, and ultimately, deliver a polished final project.
+
+### Team Collaboration and Progress Photos
+Throughout the development process, collaboration was key. Regular team meetings and brainstorming sessions facilitated our alignment, ensuring that everyone was on the same page. These progress photos serve as visual milestones, documenting our journey and highlighting the progress we have made. Reflecting on these photos, it's remarkable to see how far we've come and how our collective efforts have shaped the final product.
+
+
 ## Project Links
 - [Itch Page](https://karinaaarellano.itch.io/haunting-hammy)
 - [Trailer](https://youtu.be/OuXDJADQl_A?si=79XTvDZtsQVURucu)
