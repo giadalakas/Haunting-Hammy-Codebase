@@ -46,6 +46,14 @@ As the lead programmer, I took pride in overseeing the technical aspects of the 
 ### Team Collaboration and Progress Photos
 Throughout the development process, collaboration was key. Regular team meetings and brainstorming sessions facilitated our alignment, ensuring that everyone was on the same page. These progress photos serve as visual milestones, documenting our journey and highlighting the progress we have made. Reflecting on these photos, it's remarkable to see how far we've come and how our collective efforts have shaped the final product.
 
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="1.png" alt="Image 1 Description" width="300" style="margin-right: 10px;">
+    <img src="2.png" alt="Image 2 Description" width="300" style="margin-right: 10px;">
+    <img src="3.png" alt="Image 3 Description" width="300" style="margin-right: 10px;">
+    <img src="4.png" alt="Image 4 Description" width="300" style="margin-right: 10px;">
+    <img src="5.png" alt="Image 5 Description" width="300" style="margin-right: 10px;">
+    <img src="6.png" alt="Image 6 Description" width="300" style="margin-right: 10px;">
+</div>
 
 ## Project Links
 - [Itch Page](https://karinaaarellano.itch.io/haunting-hammy)
